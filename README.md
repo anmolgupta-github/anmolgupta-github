@@ -1,4 +1,4 @@
-# 💫 Hi 👋, Anmol
+# 💫 Hi 👋, I'm Anmol
 **A passionate Computer Science Engineer || Engineer from India**
 
 - 🔭 **I’m currently working on:** Data Structures and Algorithms 
