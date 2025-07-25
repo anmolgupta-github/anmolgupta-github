@@ -1,7 +1,7 @@
 # 💫 Hi 👋, Anmol
 **A passionate Computer Science Engineer || Engineer from India**
 
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on:** Data Structures and Algorithms 
 - 🌱 **I’m currently learning:** DSA in C++ and Web evelopment Projects
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 -  
