@@ -1,3 +1,3 @@
 # My-first
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/anmollcode)
+![](https://leetcard.jacoblin.cool/anmollcode?ext=contest)
