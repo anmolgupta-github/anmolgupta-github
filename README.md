@@ -4,7 +4,6 @@
 - 🔭 **I’m currently working on:** Data Structures and Algorithms 
 - 🌱 **I’m currently learning:** DSA in C++ and Web evelopment Projects
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
--  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gupta_anmol_010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol3101) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anmol_3101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolgupta1478@gmail.com) 
 
