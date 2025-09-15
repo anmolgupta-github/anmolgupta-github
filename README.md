@@ -36,4 +36,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://leetcard.jacoblin.cool/anmollcode?ext=heatmap)
+![](https://leetcard.jacoblin.cool/anmollcode?cache=0)
